@@ -1,6 +1,12 @@
 Test file 2
 Test file 2
 Test file 2
+/*
+	for (x; x < 25; x++)
+	{
+		Test file 2
+	}
+*/
 Test file 2
 Test file 2
 Test file 2

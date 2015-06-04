@@ -1,5 +1,8 @@
 Test file 4
 Test file 4
+/*
+	Inserting text into file 4
+*/
 Test file 4
 Test file 4
 Test file 4
